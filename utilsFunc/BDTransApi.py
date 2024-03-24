@@ -4,8 +4,8 @@ import json
 from hashlib import md5
 
 # Set your own appid/appkey.
-appid = '20210514000826725'
-appkey = 'ksGZ0O5cxIU1JMwQpnf6'
+appid= ''
+appkey= ''
 
 # For list of language codes, please refer to `https://api.fanyi.baidu.com/doc/21`
 from_lang = 'en'
